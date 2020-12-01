@@ -16,5 +16,7 @@ NOTE:
  MPDF Support only html,css not support bootstrap etc. Use https://mpdf.github.io/css-stylesheets/introduction.html link for more information.
 
 Provide File for
-1) Fetch specific database from PHPMYADMIN tool and download pdf
+1) user_index for fetch data from database into table.php  file is for Fetch specific database from PHPMYADMIN tool and download pdf
 2) Fill Data/Info in Form -> Store in databse -> Fetch from databse and download pdf.
+
+
